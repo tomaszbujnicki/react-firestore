@@ -1,0 +1,52 @@
+{
+  "sides": [
+    {
+      "name": "Bright Side",
+      "title": "Welcome to the bright side!",
+      "id": "side-0"
+    },
+    {
+      "name": "Dark Side",
+      "title": "Welcome to the dark side!",
+      "id": "side-1"
+    }
+  ],
+  "characters": [
+    {
+      "id": "1",
+      "title": "Yoda",
+      "description": "Real Name: Yoda just",
+      "url": "/images/yoda.jpeg",
+      "force": 58,
+      "sideId": "side-0",
+      "isShown": true
+    },
+    {
+      "id": "2",
+      "title": "Batman",
+      "description": "Real Name: Bruce Wayne",
+      "url": "/images/batman.jpg",
+      "force": 15,
+      "sideId": "side-0",
+      "isShown": true
+    },
+    {
+      "id": "3",
+      "title": "Darth Vader",
+      "description": "Real Name: Anakin Skywalker",
+      "url": "/images/darth-vader.jpeg",
+      "force": 91,
+      "sideId": "side-1",
+      "isShown": true
+    },
+    {
+      "id": "4",
+      "title": "Penguin",
+      "description": "Real Name: Oswald Chesterfield Cobblepot",
+      "url": "/images/penguin.jpg",
+      "force": 6,
+      "sideId": "side-1",
+      "isShown": true
+    }
+  ]
+}
